@@ -1,4 +1,4 @@
-🌸 Miu Alfaro (Miussette Alfaro)
+## 🌸 Miu Alfaro (Miussette Alfaro)
 
 Fullstack Developer | UX/UI Designer | Cloud & DevOps | Builder de ideas 🚀
 
@@ -191,7 +191,7 @@ Estrategia de producto
 
 Creación de startups
 
-##🌸 Fun fact
+## 🌸 Fun fact
 
 Siempre le pongo “Miu” a todo 😸
 
