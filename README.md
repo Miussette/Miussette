@@ -41,6 +41,11 @@ Arquitectura cloud y microservicios
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 </p>
 
+### 🔁 Fullstack Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</p>
+
 ### ☁️ Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,vercel,supabase" />
