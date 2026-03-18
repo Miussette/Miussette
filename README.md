@@ -1,4 +1,6 @@
-## 🌸 Miu Alfaro (Miussette Alfaro)
+<p align="center">
+  <img src="./banner git.png" width="100%" />
+</p>
 
 Fullstack Developer | UX/UI Designer | Cloud & DevOps | Builder de ideas 🚀
 
@@ -18,65 +20,42 @@ UX/UI centrado en el usuario
 
 Arquitectura cloud y microservicios
 
+
+## 🎯 Actualmente enfocada en
+
+- 🚀 Desarrollo de aplicaciones modernas (web + mobile)
+- 🤖 Inteligencia artificial aplicada a productos
+- 🎨 UX/UI centrado en el usuario
+- ☁️ Arquitectura cloud y microservicios
+
+  
+
 ## 🚀 Stack Tecnológico
-## 🧠 Frontend
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind" />
+</p>
 
-React / React Native
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
-Next.js (Pages Router)
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,supabase" />
+</p>
 
-Vue.js
+### 🗄️ Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
 
-TypeScript
+### 🎨 Diseño
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
-TailwindCSS
-
-## ⚙️ Backend
-
-Node.js / NestJS
-
-API REST & Microservices
-
-Prisma ORM
-
-## ☁️ Cloud & DevOps
-
-AWS (EC2, Lambda, SQS, SNS, RDS)
-
-Docker & Docker Compose
-
-Vercel / Hostinger
-
-Supabase / MongoDB Atlas
-
-## 🧪 QA & Testing
-
-Jest / Testing frameworks
-
-Automatización de pruebas
-
-Diseño de sistemas QA (Call Center analytics)
-
-## 🎨 UX/UI
-
-Figma (prototipado y diseño)
-
-Design Systems
-
-Investigación de usuarios
-
-## 🧩 Proyectos Destacados
-## 🌿 Bloom (Mental Health App)
-
-App de bienestar emocional con:
-
-Mood tracker
-
-Chatbot con IA
-
-Gestión de medicamentos
-
-Integración con calendario
 
 ## 🧠 Breeza AI
 
